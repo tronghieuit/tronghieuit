@@ -1,12 +1,11 @@
 # Hi, I'm Le Trong Hieu 👋
 
 I'm an AI/ML developer, Kaggle Competition Expert (Solo), and Kaggle Notebook Master interested in building small, fast, and practical machine-learning systems.
+My current focus is speech technology—especially Vietnamese text-to-speech, multi-speaker synthesis, and zero-shot voice cloning. I also compete and share experiments on Kaggle.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tronghieuit&label=Profile%20Views&style=flat-square" alt="Profile Views">
 </p>
-
-My current focus is speech technology—especially Vietnamese text-to-speech, multi-speaker synthesis, and zero-shot voice cloning. I also compete and share experiments on Kaggle.
 
 ## Highlights
 
