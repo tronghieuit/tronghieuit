@@ -16,12 +16,12 @@ My current focus is speech technology—especially Vietnamese text-to-speech, mu
   <tr>
     <td align="center">
       <a href="https://www.kaggle.com/backtracking">
-        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/backtracking/competition/light" alt="Kaggle Competition Expert badge" width="280">
+        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/backtracking/competition/light" alt="Kaggle Competition Expert badge" width="70">
       </a>
     </td>
     <td align="center">
       <a href="https://www.kaggle.com/backtracking">
-        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/backtracking/notebook/light" alt="Kaggle Notebook Master badge" width="280">
+        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/backtracking/notebook/light" alt="Kaggle Notebook Master badge" width="70">
       </a>
     </td>
   </tr>
@@ -40,7 +40,7 @@ My current focus is speech technology—especially Vietnamese text-to-speech, mu
 
 ## Skills & tools
 
-`Python` · `PyTorch` · `ONNX Runtime` · `Hugging Face` · `Gradio` · `Docker` · `Speech AI` · `Machine Learning`
+`Python` · `PyTorch` · `ONNX Runtime` · `Speech AI`
 
 ## Profiles & credentials
 
