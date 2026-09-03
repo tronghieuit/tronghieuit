@@ -12,15 +12,20 @@ My current focus is speech technology—especially Vietnamese text-to-speech, mu
 
 ## Kaggle achievements
 
-<p align="center">
-  <a href="https://www.kaggle.com/backtracking">
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/backtracking/competition/light" alt="Kaggle Competition Expert badge" width="420">
-  </a>
-  &nbsp;
-  <a href="https://www.kaggle.com/backtracking">
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/backtracking/notebook/light" alt="Kaggle Notebook Master badge" width="420">
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.kaggle.com/backtracking">
+        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/backtracking/competition/light" alt="Kaggle Competition Expert badge" width="280">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.kaggle.com/backtracking">
+        <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/backtracking/notebook/light" alt="Kaggle Notebook Master badge" width="280">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## What I'm working on
 
