@@ -2,13 +2,17 @@
 
 I'm an AI/ML developer, Kaggle Competition Expert (Solo), and Kaggle Notebook Master interested in building small, fast, and practical machine-learning systems.
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tronghieuit&label=Profile%20Views&style=flat-square" alt="Profile Views">
+</p>
+
 My current focus is speech technology—especially Vietnamese text-to-speech, multi-speaker synthesis, and zero-shot voice cloning. I also compete and share experiments on Kaggle.
 
 ## Highlights
 
-- 🏆 **Kaggle Competition Expert (Solo)**
-- 🎓 **Kaggle Notebook Master**
-- ☁️ **AWS Certified Solutions Architect – Associate (AWS SAA)**
+* 🏆 **Kaggle Competition Expert (Solo)**
+* 🎓 **Kaggle Notebook Master**
+* ☁️ **AWS Certified Solutions Architect – Associate (AWS SAA)**
 
 ## Kaggle achievements
 
@@ -29,14 +33,14 @@ My current focus is speech technology—especially Vietnamese text-to-speech, mu
 
 ## What I'm working on
 
-- Building lightweight speech applications that can run efficiently on everyday hardware.
-- Exploring efficient inference, model compression, and practical deployment.
-- Learning and experimenting with data science and machine learning on Kaggle.
+* Building lightweight speech applications that can run efficiently on everyday hardware.
+* Exploring efficient inference, model compression, and practical deployment.
+* Learning and experimenting with data science and machine learning on Kaggle.
 
 ## Featured projects
 
-- [v-tts](https://github.com/tronghieuit/v-tts) — Lightweight Vietnamese text-to-speech with multi-speaker TTS and zero-shot voice cloning.
-- [tiny-tts](https://github.com/tronghieuit/tiny-tts) — A compact English TTS model designed for efficient inference.
+* [v-tts](https://github.com/tronghieuit/v-tts) — Lightweight Vietnamese text-to-speech with multi-speaker TTS and zero-shot voice cloning.
+* [tiny-tts](https://github.com/tronghieuit/tiny-tts) — A compact English TTS model designed for efficient inference.
 
 ## Skills & tools
 
@@ -63,9 +67,9 @@ My current focus is speech technology—especially Vietnamese text-to-speech, mu
   </a>
 </p>
 
-- [Kaggle — backtracking](https://www.kaggle.com/backtracking)
-- [AWS SAA — verify certificate on Credly](https://www.credly.com/earner/earned/badge/70bb428a-394e-4400-95ca-ec3001031dcc)
-- [Hugging Face — backtracking](https://huggingface.co/backtracking)
+* [Kaggle — backtracking](https://www.kaggle.com/backtracking)
+* [AWS SAA — verify certificate on Credly](https://www.credly.com/earner/earned/badge/70bb428a-394e-4400-95ca-ec3001031dcc)
+* [Hugging Face — backtracking](https://huggingface.co/backtracking)
 
 ## Let's connect
 
