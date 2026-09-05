@@ -61,13 +61,13 @@ My current focus is speech technology—especially Vietnamese text-to-speech, mu
   <a href="https://www.kaggle.com/backtracking">
     <img src="https://img.shields.io/badge/Kaggle-Competition%20Expert%20(Solo)-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Competition Expert Solo">
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/70bb428a-394e-4400-95ca-ec3001031dcc">
+  <a href="https://www.credly.com/badges/70bb428a-394e-4400-95ca-ec3001031dcc/public_url">
     <img src="https://img.shields.io/badge/AWS%20SAA-Verify%20on%20Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="AWS SAA verify on Credly">
   </a>
 </p>
 
 * [Kaggle — backtracking](https://www.kaggle.com/backtracking)
-* [AWS SAA — verify certificate on Credly](https://www.credly.com/earner/earned/badge/70bb428a-394e-4400-95ca-ec3001031dcc)
+* [AWS SAA — verify certificate on Credly](https://www.credly.com/badges/70bb428a-394e-4400-95ca-ec3001031dcc/public_url)
 * [Hugging Face — backtracking](https://huggingface.co/backtracking)
 
 ## Let's connect
